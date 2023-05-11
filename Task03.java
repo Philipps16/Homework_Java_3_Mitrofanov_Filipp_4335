@@ -1,5 +1,4 @@
 package Homework_Java_3_Mitrofanov_Filipp_4335;
-import java.io.Console;
 public class Task03 {
     public static void main(String[] args) {
     int array[] = new int[]{5, 10, 15, 45, 87, 96};
